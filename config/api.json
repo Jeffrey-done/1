@@ -1,7 +1,7 @@
 {
   "clientId": "caa6db1f-b771-4a79-8ff3-01b6b6c14f2d",
   "redirectUri": "http://localhost",
-  "base": "/Public",
+  "base": "/Public/100NIKON/",
   "authApi": "https://login.microsoftonline.com/common/oauth2/v2.0/token",
   "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/me/drive"
 }
